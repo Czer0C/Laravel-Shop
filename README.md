@@ -1,12 +1,11 @@
 # Đồ án cuối kì môn lập trình Web 1
 
-### Thành viên:
-
-**1. Nguyễn Hải Triều**
-
-**2. Trần Quốc Trí**
-
-**3. Dương Quang Vinh**
+<dl>
+  <dt><h3>Thành viên</h3></dt>
+  <dd><b>1. Nguyễn Hải Triều</b></dd>
+  <dd><b>2. Trần Quốc Trí</b></dd>
+  <dd><b>3. Dương Quang Vinh</b></dd>
+</dl>
 
 ***
 
