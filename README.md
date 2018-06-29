@@ -1,13 +1,18 @@
 # Đồ án cuối kì môn lập trình Web 1
 
 ### Thành viên:
-    1. Nguyễn Hải Triều
-    2. Trần Quốc Trí
-    3. Dương Quang Vinh
+
+**1. Nguyễn Hải Triều**
+
+**2. Trần Quốc Trí**
+
+**3. Dương Quang Vinh**
+
+***
 
 ### Yêu cầu:
 
-> Xây dựng một website kinh doanh mua bán điện thoại di động.
+> ### Xây dựng một website kinh doanh mua bán điện thoại di động.
 
 ### Đặc tả:
 1 Phân hệ Anonymous/Guest
@@ -77,9 +82,52 @@ vào tên của điện thoại
 
 1.6.2 Đăng ký tài khoản
 
-- Tao trang đăng ký tài khoản với một số tiêu chí như sau: [img]()
+- Tao trang đăng ký tài khoản với một số tiêu chí như sau: 
+![N|Solid](https://i.imgur.com/pwuR4JN.png)
 
 - Chức năng Mã kiểm tra sử dụng công nghệ AJAX hoặc tương đương.
+
+2 Phân hệ Registered User
+
+- Kế thừa và có đầy đủ các chức năng của phân hệ Anonymous/Guest
+
+2.1 Thực hiện chọn và mua một món điện thoại
+
+- Cho phép người dùng lựa chọn mua một món điện thoại nào đó bỏ vào giỏ hàng.
+
+2.2 Quản lý giỏ hàng
+
+- Thực hiện quản lý các món điện thoại mà người dùng đã thực hiện mua và bỏ vào giỏ hàng như: thay đổi số lượng mua của một món điện thoại, hủy loại điện thoại đã chọn.
+
+2.3 Thanh toán toàn bộ giỏ hàng
+
+- Thực hiện thanh toán toàn bộ giỏ hàng và lưu xuống CSDL. Cập nhật lại số lượng các sản phẩm vừa mới được bán.
+
+3 Phân hệ Admin
+
+3.1 Menu Admin
+
+- Xây dựng menu hiển thị các chức năng quảnlý điện thoại, quản lý loại điện thoại, quản lý nhà sản xuất, quản lý người dùng, quản lý hóa đơn bán hàng.
+
+3.2 Quản lý Điện thoại
+
+- Xây dựng 5 chức năng thêm, xóa, sửa, liệt kê và tìm kiếm thông tin của điện thoại
+
+3.3 Quản lý Loại điện thoại
+
+- Xây dựng 5 chức năng thêm, xóa, sửa, liệt kê và tìm kiếm thông tin của loại điện 
+
+3.4 Quản lý Nhà sản xuất
+
+- Xây dựng 5 chức năng thêm, xóa, sửa, liệt kê và tìm kiếm thông tin của nhà sản xuất
+
+3.5 Quản lý Tài khoản người dùng
+
+- Xây dựng 5 chức năng thêm, xóa, sửa, liệt kê và tìm kiếm thông tin tài khoản người dùng.
+
+3.6 Quản lý đơn đặt hàng
+
+- Xây dựng 5 chức năng thêm, xóa, sửa, liệt kê và tìm kiếm thông tin đơn đặt hàngm (trong đó, sẽ thực hiện lại việc cập nhật tình trạng của đơn đặt hàng khi tiến hành giao điện thoại cho khách).
 
 
 ### Các tool sử dụng:
