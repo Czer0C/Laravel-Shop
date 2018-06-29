@@ -9,16 +9,16 @@
 
 ***
 
-### Yêu cầu:
+## Yêu cầu:
 
 > ### Xây dựng một website kinh doanh mua bán điện thoại di động.
 
-> ### Đặc tả:
+> # Đặc tả:
 
 ![](https://i.imgur.com/LwzGSAy.png)
 ![](https://i.imgur.com/udSt9Z7.png)
 ![](https://i.imgur.com/SiM2IfP.png)
 
-> ### Các tool sử dụng:
+> ## Các tool sử dụng:
 + Sublime Text
 + Laragon
